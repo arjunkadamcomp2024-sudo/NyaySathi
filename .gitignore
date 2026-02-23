@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
